@@ -1,4 +1,5 @@
 // Object Destructuring
+console.log('Object Destructuring\n');
 
 const javaScript = {
     version: {
